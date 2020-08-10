@@ -1,4 +1,5 @@
-# RL Project 2 - Implementing Value Function Approximation Algorithms - Deep Q Learning (DQN) and Double DQN (DDQN):
+# Project 2
+## Implementing Value Function Approximation Algorithms - Deep Q Learning (DQN) and Double DQN (DDQN)
 
 CSE4/510: Introduction to Reinforcement Learning
 
